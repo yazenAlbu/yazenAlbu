@@ -45,17 +45,24 @@
 
 ## 🤝 Professional Background
 
-Before moving into IT, I worked in project management, accounting, and financial administration.
+Before transitioning into IT, I built a professional background in project management, accounting, and financial administration across NGO, public-sector, and international project environments.
 
-This background helped me build strong skills in:
+My experience includes working with Iraq-focused projects, financial documentation, budgeting support, reporting, stakeholder communication, partner coordination, and administrative workflows.
 
-- Project coordination
-- Documentation
-- Reporting
-- Budgeting support
-- Communication
-- Structured workflows
-- Problem-solving
+I have worked in both structured public-sector environments and NGO project contexts, which helped me develop strong discipline in accuracy, documentation, communication, planning, and working under pressure.
+
+This background supports my transition into DevOps and Cloud Engineering, especially in areas that require structured thinking, clear documentation, collaboration, process improvement, and reliable operational workflows.
+
+Key transferable strengths:
+
+- Project management and coordination
+- Financial administration and accounting
+- Budget tracking and reporting support
+- Stakeholder and partner communication
+- Documentation and structured workflows
+- NGO and international project experience
+- Public-sector administrative experience
+- Problem-solving and working under pressure
 
 ---
 
