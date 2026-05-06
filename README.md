@@ -12,10 +12,8 @@
 ---
 ## 🛠️ Tech Stack & Curriculum
 
-### IT Fundamentals
+### IT
 
-![Computer Fundamentals](https://img.shields.io/badge/Computer%20Fundamentals-4B5563?style=for-the-badge)
-![Computational Thinking](https://img.shields.io/badge/Computational%20Thinking-374151?style=for-the-badge)
 ![SDLC](https://img.shields.io/badge/SDLC-1F2937?style=for-the-badge)
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge)
@@ -25,7 +23,6 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
