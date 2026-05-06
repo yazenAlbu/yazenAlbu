@@ -1,6 +1,6 @@
-# Hi there, I'm Yazen Albu 👋
+# Hi there, I'm Yazen Albu 👋🏽
 
-## 🚀 About Me
+## About Me
 
 - 🌍 Based in Berlin, Germany
 - 🎯 Transitioning into DevOps and Cloud Engineering
